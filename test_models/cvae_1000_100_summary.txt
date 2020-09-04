@@ -1,0 +1,11 @@
+Model's state_dict:
+inet.0.weight	torch.Size([1000, 1519])
+inet.0.bias	torch.Size([1000])
+mu.weight	torch.Size([100, 1000])
+mu.bias	torch.Size([100])
+sigma.weight	torch.Size([100, 1000])
+sigma.bias	torch.Size([100])
+gnet.0.weight	torch.Size([1000, 100])
+gnet.0.bias	torch.Size([1000])
+gnet.1.weight	torch.Size([1519, 1000])
+gnet.1.bias	torch.Size([1519])
