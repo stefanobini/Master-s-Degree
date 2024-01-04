@@ -1,0 +1,10 @@
+# Master's Degree in Digital Health and Bioinformatic Engineering
+Extensive studies in biology, genomics, genetics, and bioinformatics. Specialized in biomedical embedded systems, digital health, and software engineering. Proficient in transducers for bioinformatics, cybersecurity, medical imaging, and robotics. Explored advanced topics like natural computation, machine learning, and big data analytics.
+
+## Thesis: Machine Learning for Drug Repurposing with Graph Neural Networks
+The field of computational pharmacology has witnessed a growing focus on Drug Repurposing or Drug Repositioning in recent years, aiming to identify novel applications for existing drugs. This strategy has garnered significant attention due to its potential to streamline the development process, minimizing both costs and time associated with creating new pharmaceuticals. Moreover, Drug Repurposing offers a promising avenue for uncovering alternative uses for established drugs in the treatment of rare diseases, where conventional research and development efforts may be economically unviable for pharmaceutical companies.
+
+Various techniques underpinning Drug Repurposing share a common reliance on Machine Learning methodologies, differing primarily in the choice of initial data. This data can range from raw one-dimensional feature vectors derived from interaction graphs to the interaction graphs themselves. This study delves into the comparative performance of traditional methodologies against graph-based approaches. Specifically, it aims to investigate whether superior results can be achieved by leveraging Graph Convolutional Neural Networks. These networks have the distinct advantage of operating directly on interaction graphs, thereby incorporating information about individual graph elements and the overall topological structure. Through this exploration, we aim to discern the efficacy of graph-based techniques, especially the potential enhancements offered by Graph Convolutional Neural Networks in the realm of Drug Repurposing.
+
+
+**Grade:** 110/110 cum laude
